@@ -108,3 +108,63 @@ It helps understand how different list types work and how they can be styled usi
 
 ✨ Feel free to modify the lists or add more examples to practice!
 
+# Image Tag Example in HTML
+
+## 📖 Description
+This project demonstrates the use of the HTML **image (`<img>`) tag**.  
+The image tag is used to display images on a webpage.  
+
+The two required attributes of the image tag are:
+- **src** → specifies the path of the image file  
+- **alt** → provides alternative text if the image cannot be displayed  
+
+---
+
+## ⚙️ Working
+- The webpage displays explanatory text about the image tag.  
+- Multiple images are shown with different alignments and styles:
+  - Center aligned image
+  - Default aligned image
+  - Right aligned image with border and spacing  
+
+---
+
+## ✨ Features
+- Demonstrates how to insert images in HTML  
+- Shows usage of `src` and `alt` attributes  
+- Explains alignment and styling options  
+- Beginner-friendly example for practicing HTML basics  
+
+---
+
+## 🏷️ Tags Used
+- HTML  
+- Head  
+- Title  
+- Body  
+- Paragraph (`<p>`)  
+- Bold (`<b>`)  
+- Image (`<img>`)  
+
+---
+
+## 📸 Screenshot
+
+Here is the output of the program:
+
+![Image Tag Output](image_tag_output.png)
+
+---
+
+## 🎯 Purpose
+This example is useful for beginners to understand:
+- How to display images in a webpage  
+- How to use attributes like `src` and `alt`  
+- How alignment and styling affect image placement  
+
+---
+
+## 👩‍💻 Author
+**Nisha Bhandare**
+
+
