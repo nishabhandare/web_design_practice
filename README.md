@@ -168,3 +168,61 @@ This example is useful for beginners to understand:
 **Nisha Bhandare**
 
 
+# Headings Example in HTML
+
+## 📖 Description
+This project demonstrates the use of HTML heading tags (`<h1>` to `<h6>`).  
+Each heading is styled differently using inline CSS to show variations in color, font, alignment, and decoration.
+
+---
+
+## ⚙️ Working
+- The webpage displays six headings (`<h1>` to `<h6>`).  
+- Each heading has a unique style applied:
+  - Color
+  - Font style
+  - Font size
+  - Text alignment
+  - Font family
+  - Text decoration  
+
+---
+
+## ✨ Features
+- Demonstrates all six heading levels in HTML  
+- Shows how inline CSS can style headings  
+- Beginner‑friendly example for practicing HTML basics  
+
+---
+
+## 🏷️ Tags Used
+- HTML  
+- Head  
+- Title  
+- Body  
+- Heading (`<h1>` to `<h6>`)  
+- Horizontal Rule (`<hr>`)  
+
+---
+
+## 📸 Screenshot
+
+Here is the output of the program:
+
+![Headings Output](headings_output.png)
+
+---
+
+## 🎯 Purpose
+This example is useful for beginners to understand:
+- The difference between heading levels  
+- How CSS styles can change text appearance  
+- How headings structure a webpage  
+
+---
+
+## 👩‍💻 Author
+**Nisha Bhandare**
+
+
+
