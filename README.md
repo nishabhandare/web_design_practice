@@ -21,8 +21,6 @@ The important attribute of the anchor tag is `href` (Hyper Reference), which spe
 - Simple beginner-friendly example
 - Helps understand webpage navigation
 
----
-
 ## Tags Used
 - HTML
 - Head
@@ -30,6 +28,16 @@ The important attribute of the anchor tag is `href` (Hyper Reference), which spe
 - Body
 - Anchor (`<a>`) tag
 - Line Break (`<br>`)
+
+---
+
+## 📸 Screenshots
+
+### Anchor Tag Output
+![Anchor Tag Output](_C__Users_bhand_Desktop_web_achaor_tag.html.png)
+
+### List Tag Output
+![List Tag Output](_C__Users_bhand_Desktop_web_list_tag_type.html.png)
 
 ---
 
@@ -46,8 +54,8 @@ This example is useful for beginners to understand:
 
 ---
 
-## Author
-Nisha Bhandare
+## 👨‍💻 Author
+**Nisha Bhandare**
 
 
 # List Tag Example
