@@ -261,6 +261,10 @@ This repository contains my HTML practice programs and exercises.
 - Learned how to merge rows and columns using `rowspan` and `colspan`.
 - Practiced creating structured and readable table layouts.
 
+  ## Output
+
+![HTML Practice Output](tableresult.png)
+
 ## Author
 
 Nisha Bhandare
