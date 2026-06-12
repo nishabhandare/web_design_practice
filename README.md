@@ -263,7 +263,7 @@ This repository contains my HTML practice programs and exercises.
 
   ## Output
 
-![HTML Practice Output](tableresult.png)
+![HTML Practice Output](tableresult.jpeg)
 
 ## Author
 
