@@ -225,4 +225,45 @@ This example is useful for beginners to understand:
 **Nisha Bhandare**
 
 
+# HTML Practice
+
+This repository contains my HTML practice programs and exercises.
+
+## Topics Covered
+
+- HTML Tables
+- Rowspan and Colspan
+- Timetable Design
+- Student Result Table
+- Basic Formatting
+- Table Styling using HTML attributes
+
+## Projects
+
+### 1. Weekly Timetable
+- Created a weekly class timetable.
+- Used `colspan` for holiday rows.
+- Practiced table structure and formatting.
+
+### 2. Student Result Table
+- Displayed student marks and results.
+- Used `rowspan` and `colspan`.
+- Added PASS/FAIL status.
+- Organized subject-wise marks.
+
+## Technologies Used
+
+- HTML5
+
+## Learning Outcomes
+
+- Improved understanding of HTML tables.
+- Learned how to merge rows and columns using `rowspan` and `colspan`.
+- Practiced creating structured and readable table layouts.
+
+## Author
+
+Nisha Bhandare
+
+
 
