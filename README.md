@@ -270,4 +270,126 @@ This repository contains my HTML practice programs and exercises.
 Nisha Bhandare
 
 
+# Personal Portfolio Website
+
+## Overview
+
+This project is a personal portfolio website created using HTML5 semantic tags. The purpose of this project is to showcase my educational background, technical skills, projects, certificates, learning journey, and professional profiles in a structured and organized way.
+
+The portfolio demonstrates the use of semantic HTML elements and basic webpage structuring without using CSS or JavaScript.
+
+---
+
+## Features
+
+* Personal introduction section
+* Profile picture with caption
+* Technical skills list
+* Hobbies section
+* Project showcase with GitHub repository links
+* Certificates section
+* Learning track section
+* Resume link
+* GitHub and LinkedIn profile links
+* Semantic HTML structure
+
+---
+
+## Technologies Used
+
+* HTML5
+
+---
+
+## Semantic Tags Used
+
+This project uses the following semantic HTML tags:
+
+* `<header>`
+* `<section>`
+* `<figure>`
+* `<figcaption>`
+* `<nav>`
+* `<aside>`
+* `<footer>`
+
+---
+
+## Project Sections
+
+### About Me
+
+Provides a brief introduction about my educational background and learning journey.
+
+### Skills
+
+Includes technical skills such as:
+
+* C++
+* Python
+* Django
+* HTML
+* CSS
+* JavaScript
+
+### Hobbies
+
+Lists personal interests and hobbies.
+
+### Projects
+
+Contains links and descriptions of:
+
+* Python Basic Programs
+* Python Mini Project
+* Guessing Game
+* Number Analyzer System
+* Python Practice Repository
+* HTML Practice Repository
+
+### Certificates
+
+Includes certificates earned through various learning platforms and practice programs.
+
+### Learning Track
+
+Shows the technologies and topics I am currently learning.
+
+### Resume
+
+Provides access to my latest resume.
+
+---
+
+## Screenshot
+
+![Portfolio Output](my_portofolio_output.png)
+
+---
+
+## Learning Outcome
+
+Through this project, I learned:
+
+* HTML document structure
+* Semantic HTML tags
+* Lists and nesting
+* Images and hyperlinks
+* Organizing webpage content
+* Creating a personal portfolio webpage
+
+---
+
+## Author
+
+**Nisha Bhandare**
+
+B.Sc. (ECS) Student
+
+Aspiring Full Stack Developer
+
+GitHub: https://github.com/nishabhandare
+
+
+
 
