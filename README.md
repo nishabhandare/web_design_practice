@@ -363,7 +363,7 @@ Provides access to my latest resume.
 
 ## Screenshot
 
-![Portfolio Output](my_portofolio_output.jpeg)
+![Portfolio Output](my_portfolio_output.jpeg)
 
 ---
 
