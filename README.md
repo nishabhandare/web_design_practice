@@ -363,7 +363,7 @@ Provides access to my latest resume.
 
 ## Screenshot
 
-![Portfolio Output](my_portofolio_output.png)
+![Portfolio Output](my_portofolio_output.jpeg)
 
 ---
 
@@ -377,6 +377,14 @@ Through this project, I learned:
 * Images and hyperlinks
 * Organizing webpage content
 * Creating a personal portfolio webpage
+
+---
+
+## About the Author
+
+I am Nisha Bhandare, a B.Sc. (ECS) student and an aspiring Full Stack Developer. I am currently learning Python, HTML, CSS, JavaScript, and Django while building projects to improve my programming and web development skills.
+
+![Nisha Bhandare](myself.png)
 
 ---
 
