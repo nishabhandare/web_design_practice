@@ -430,7 +430,7 @@ web_design_practice/
 3. Fill the form and test it
 
 ## Output Screenshot
-form_example_output.jpeg
+![student registration form Output](form_example_output.jpeg)
 
 ## Learning Purpose
 This project helps to understand:
