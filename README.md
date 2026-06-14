@@ -399,5 +399,55 @@ Aspiring Full Stack Developer
 GitHub: https://github.com/nishabhandare
 
 
+# Student Registration Form (HTML Project)
+
+## Project Overview
+This is a simple Student Registration Form created using HTML.  
+It is a practice project to learn HTML form elements and basic webpage structure.
+
+## Features
+- Name, Class, Age, Email, Password fields
+- Gender selection using radio buttons
+- Hobbies selection using checkboxes
+- File upload option for photo
+- Date input for DOB
+- Submit and Reset buttons
+- Simple and clean layout
+
+## Technologies Used
+- HTML5
+
+## Project Structure
+web_design_practice/
+│
+├── form_example.html
+├── form_example_output.jpeg
+└── README.md
+
+## How to Run
+1. Download or clone the repository
+2. Open form_example.html in any browser
+3. Fill the form and test it
+
+## Output Screenshot
+form_example_output.jpeg
+
+## Learning Purpose
+This project helps to understand:
+- HTML form structure
+- Input types in HTML
+- Labels and user input handling
+- Basic web page design
+
+## Author
+Nisha Bhandare
+
+## Future Improvements
+- Add CSS styling for better design
+- Add form validation
+- Make it responsive
+- Connect with backend (database)
+
+
 
 
