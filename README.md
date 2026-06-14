@@ -34,10 +34,10 @@ The important attribute of the anchor tag is `href` (Hyper Reference), which spe
 ## 📸 Screenshots
 
 ### Anchor Tag Output
-![Anchor Tag Output](_C__Users_bhand_Desktop_web_achaor_tag.html.png)
+![Anchor Tag Output](./_C__Users_bhand_Desktop_web_achaor_tag.html.png)
 
 ### List Tag Output
-![List Tag Output](_C__Users_bhand_Desktop_web_list_tag_type.html.png)
+![List Tag Output](./_C__Users_bhand_Desktop_web_list_tag_type.html.png)
 
 ---
 
@@ -70,7 +70,7 @@ This project demonstrates the use of **HTML list tags**:
 
 Here is the output of the program:
 
-![List Tag Output](_C__Users_bhand_Desktop_web_list_tag_type.html.png)
+![List Tag Output](./_C__Users_bhand_Desktop_web_list_tag_type.html.png)
 
 ## 📑 Features
 
@@ -152,7 +152,7 @@ The two required attributes of the image tag are:
 
 Here is the output of the program:
 
-![Image Tag Output](image_tag_output.png)
+![Image Tag Output](./image_tag_output.png)
 
 ---
 
