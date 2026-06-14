@@ -34,7 +34,7 @@ The important attribute of the anchor tag is `href` (Hyper Reference), which spe
 ## 📸 Screenshots
 
 ### Anchor Tag Output
-![Anchor Tag Output](./_C__Users_bhand_Desktop_web_achaor_tag.png)
+![Anchor Tag Output](./achaor_tag.png)
 
 ### List Tag Output
 ![List Tag Output](./_C__Users_bhand_Desktop_web_list_tag_type.png)
