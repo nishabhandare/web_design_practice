@@ -37,7 +37,7 @@ The important attribute of the anchor tag is `href` (Hyper Reference), which spe
 ![Anchor Tag Output](achaor_tag.png)
 
 ### List Tag Output
-![List Tag Output](./_C__Users_bhand_Desktop_web_list_tag_type.png)
+![List Tag Output](list_tag_output.png)
 
 ---
 
@@ -70,7 +70,7 @@ This project demonstrates the use of **HTML list tags**:
 
 Here is the output of the program:
 
-![List Tag Output](./_C__Users_bhand_Desktop_web_list_tag_type.png)
+![List Tag Output](list_tag_output.png)
 
 ## 📑 Features
 
