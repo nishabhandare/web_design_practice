@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>
+        College Registration Form
+    </title>
+</head>
+
+<body style="background-color: rgb(64, 155, 155); text-align:center;">
+    <h1 style="color:darkblue">College Registration Form</h1>
+    <form
+        style="background-color: rgb(201, 236, 236);text-align:center; border:2px solid black; width:55%; margin: 0 auto; padding:20px; border-radius:20px;">
+        <br>
+
+        <h2>👤 Personal Details</h2>
+        <label style="display:inline-block; width:150px;">Last Name: </label>
+        <input type="text" placeholder="Enter Last Name" required /><br><br>
+        <label style="display:inline-block; width:150px;">First Name: </label>
+        <input type="text" placeholder="Enter First Name" required><br><br>
+        <label style="display:inline-block; width:150px;">Middle Name: </label>
+        <input type="text" placeholder="Enter Middle Name" required><br><br>
+        <label style="display:inline-block; width:150px;">Gender: </label>
+        <input type="radio" name="gender" value="Male" required />Male
+        <input type="radio" name="gender" value="Female" />Female<br><br>
+        <label style="display:inline-block; width:150px;">DOB: </label>
+        <input type="date" required><br><br>
+
+        <h2>🏠 Address Details</h2>
+        <label style="display:inline-block; width:150px;">Address: </label>
+        <textarea placeholder="Enter Address" style="width: 300px; height: 50px;" required></textarea><br><br>
+        <label style="display:inline-block; width:150px;">PinCode: </label>
+        <input type="number" placeholder="Enter PinCode" required /><br><br>
+
+        <h2>📞 Contact Details</h2>
+        <label style="display:inline-block; width:150px;">Parents Mobile No: </label>
+        <input type="number" placeholder="Enter Parent Mobile No" required /><br><br>
+        <label style="display:inline-block; width:150px;">Student Mobile No: </label>
+        <input type="number" placeholder="Enter Your Mobile No" required /><br><br>
+        <label style="display:inline-block; width:150px;">Email ID:</label>
+        <input type="email" placeholder="Enter Email ID" required /><br><br>
+
+        <h2>📚 Academic Details</h2>
+        <label style="display:inline-block; width:150px;">10th Percentage: </label>
+        <input type="number" placeholder="Enter 10th Percentage" required /><br><br>
+        <label style="display:inline-block; width:150px;">12th Percentage: </label>
+        <input type="number" placeholder="Enter 12th Percentage" required /><br><br>
+        <label style="display:inline-block; width:150px;">CET Percentage: </label>
+        <input type="number" placeholder="Enter CET percentage" required /><br><br>
+        <label style="display:inline-block; width:150px;">Selected Course: </label>
+        <select required>
+            <option value="">Select Course</option>
+            <option>BA</option>
+            <option>BBA</option>
+            <option>B.com</option>
+            <option>B.ed</option>
+            <option>B.Tech</option>
+            <option>B.Sc-ECS</option>
+            <option>BCA</option>
+            <option>MCS</option>
+            <option>MCA</option>
+            <option>Other</option>
+        </select><br><br>
+
+        <h2>📷 Document Upload</h2>
+        <label style="display:inline-block; width:150px;">Photo: </label>
+        <input type="file" required /><br><br>
+
+        <input type="submit" value="Submit" style="background-color:lightgray; padding:8px 15px;" />
+        <input type="reset" value="Reset" style="background-color:lightgray; padding:8px 15px;" /><br><br>
+    </form>
+</body>
+
+</html>
