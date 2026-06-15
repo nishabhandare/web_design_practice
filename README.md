@@ -449,5 +449,55 @@ Nisha Bhandare
 - Connect with backend (database)
 
 
+# College Registration Form
+
+## Description
+
+This project is a simple College Registration Form created using HTML. It collects personal, address, contact, academic, and document details from students.
+
+## Features
+
+* Personal Details Section
+* Address Details Section
+* Contact Details Section
+* Academic Details Section
+* Document Upload Section
+* Gender Selection using Radio Buttons
+* Course Selection using Dropdown Menu
+* Required Field Validation
+* Submit and Reset Buttons
+
+## Technologies Used
+
+* HTML5
+
+## Project Files
+
+* `college_registration_form.html` - Main HTML file
+* `college_registration_output.jpeg` - Output Screenshot
+
+## Output Screenshot
+
+![College Registration Form](college registration form output.png)
+
+## Learning Outcomes
+
+Through this project, I practiced:
+
+* HTML Forms
+* Input Elements
+* Radio Buttons
+* Dropdown Lists
+* Textarea
+* File Upload
+* Form Validation using Required Attribute
+* Basic Form Styling with Inline CSS
+
+## Author
+
+Nisha Bhandare
+
+
+
 
 
