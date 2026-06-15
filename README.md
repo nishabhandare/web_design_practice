@@ -474,11 +474,11 @@ This project is a simple College Registration Form created using HTML. It collec
 ## Project Files
 
 * `college_registration_form.html` - Main HTML file
-* `college_registration_output.jpeg` - Output Screenshot
+* `college_registration_form_output.jpeg` - Output Screenshot
 
 ## Output Screenshot
 
-![College Registration Form](college registration form output.png)
+![College Registration Form](collage_registration_form_output.png)
 
 ## Learning Outcomes
 
