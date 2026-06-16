@@ -523,7 +523,6 @@ Audio-Video-Example/
 │
 ├── audio_vedio_ex.html
 ├── audio.mp3
-├── video.mp4
 ├── audio_video_ex_output.png
 └── README.md
 ```
@@ -543,6 +542,11 @@ Audio-Video-Example/
   * autoplay
   * muted
 * Applying basic inline CSS styling
+
+## Note
+
+The video file is not included in this repository because of its large file size. To test the video player, add your own MP4 file and name it `video.mp4`.
+
 
 ## Author
 
