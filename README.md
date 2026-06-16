@@ -497,6 +497,59 @@ Through this project, I practiced:
 
 Nisha Bhandare
 
+# HTML Audio and Video Example
+
+## Description
+
+This project demonstrates the use of HTML5 Audio and Video tags to embed multimedia content into a web page.
+
+## Features
+
+* Audio player with controls
+* Video player with controls
+* Autoplay and muted attributes
+* Styled interface with background color
+* Rounded borders for audio and video elements
+* Center-aligned content
+
+## Technologies Used
+
+* HTML5
+
+## Project Structure
+
+```text
+Audio-Video-Example/
+│
+├── audio_vedio_ex.html
+├── audio.mp3
+├── video.mp4
+├── audio_video_ex_output.png
+└── README.md
+```
+
+## Output Screenshot
+
+![Audio and Video Output](audio_video_ex_output.png)
+
+## Learning Outcomes
+
+* Using the `<audio>` tag
+* Using the `<video>` tag
+* Working with multimedia files
+* Understanding attributes such as:
+
+  * controls
+  * autoplay
+  * muted
+* Applying basic inline CSS styling
+
+## Author
+
+Nisha Bhandare
+B.Sc. (E.C.S.) Student
+
+
 
 
 
